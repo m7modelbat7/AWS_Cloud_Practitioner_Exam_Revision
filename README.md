@@ -139,4 +139,4 @@ This repository is for educational and personal revision use.
 
 ## Author
 
-Prepared as part of an **AWS Cloud Practitioner Exam Revision** study journey.
+Prepared as part of an **AWS Cloud Practitioner Exam Revision** study journey by Mahmoud Elbath.
