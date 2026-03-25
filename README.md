@@ -48,21 +48,3 @@ Covers the AWS Well-Architected Framework, reliability, availability, and AWS Tr
 ### 10. Auto Scaling and Monitoring
 Covers Elastic Load Balancing, Amazon CloudWatch, Amazon EC2 Auto Scaling, and monitoring-driven scaling strategies.
 
----
-
-## Suggested Repository Structure
-
-```text
-AWS_Cloud_Practitioner_Exam_Revision/
-│
-├── README.md
-├── module-1-cloud-concepts-overview.md
-├── module-2-cloud-economics-and-billing.md
-├── module-3-aws-global-infrastructure-overview.md
-├── module-4-aws-cloud-security.md
-├── module-5-networking-and-content-delivery.md
-├── module-6-compute.md
-├── module-7-storage.md
-├── module-8-databases.md
-├── module-9-cloud-architecture.md
-└── module-10-auto-scaling-and-monitoring.md
