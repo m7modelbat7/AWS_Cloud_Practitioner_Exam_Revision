@@ -52,17 +52,18 @@ Covers Elastic Load Balancing, Amazon CloudWatch, Amazon EC2 Auto Scaling, and m
 
 ## Revision Notes Index
 
-- [Module 1 - Cloud Concepts Overview](./Module1/Module1 Revision.md)
-- [Module 2 - Cloud Economics and Billing](./Module2/Module2 Revision.md)
-- [Module 3 - AWS Global Infrastructure Overview](./Module3/Module3 Revision.md)
-- [Module 4 - AWS Cloud Security](./Module4/Module4 Revision.md)
-- [Module 5 - Networking and Content Delivery](./Module5/Module5 Revision.md)
-- [Module 6 - Compute](./Module6/Module6 Revision.md)
-- [Module 7 - Storage](./Module7/Module7 Revision.md)
-- [Module 8 - Databases](./Module8/Module8 Revision.md)
-- [Module 9 - Cloud Architecture](./Module9/Module9 Revision.md)
-- [Module 10 - Auto Scaling and Monitoring](./Module10/Module10 Revision.md)
+Navigate directly to each module revision note:
 
+- [Module 1 - Cloud Concepts Overview](./Module1/Module1%20Revision.md)
+- [Module 2 - Cloud Economics and Billing](./Module2/Module2%20Revision.md)
+- [Module 3 - AWS Global Infrastructure Overview](./Module3/Module3%20Revision.md)
+- [Module 4 - AWS Cloud Security](./Module4/Module4%20Revision.md)
+- [Module 5 - Networking and Content Delivery](./Module5/Module5%20Revision.md)
+- [Module 6 - Compute](./Module6/Module6%20Revision.md)
+- [Module 7 - Storage](./Module7/Module7%20Revision.md)
+- [Module 8 - Databases](./Module8/Module8%20Revision.md)
+- [Module 9 - Cloud Architecture](./Module9/Module9%20Revision.md)
+- [Module 10 - Auto Scaling and Monitoring](./Module10/Module10%20Revision.md)
 ---
 
 ## Who this repo is for
